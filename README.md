@@ -36,12 +36,15 @@ DivansuGPT is an advanced conversational AI app inspired by OpenAI's ChatGPT, bu
 Check out the live working version here:  
 👉 [https://divansugpt.vercel.app/](https://divansugpt.vercel.app/)
 
+
 ---
 
 ## 📸 Screenshots (Optional)
 
 > Add screenshots here to showcase your UI — drag and drop or use Markdown image links.
 > ![Screenshot 2025-06-02 090918](https://github.com/user-attachments/assets/9c0f766e-2327-49c3-9247-ed106100911b)
+> ![Screenshot 2025-06-02 090857](https://github.com/user-attachments/assets/f9db262e-1372-4a12-95d8-9b4952e0cbce)
+
 
 
 ---
